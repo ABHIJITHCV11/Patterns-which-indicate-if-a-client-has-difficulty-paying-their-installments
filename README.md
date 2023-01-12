@@ -1,5 +1,5 @@
 
-# Credit EDA Assignment
+# Identification of risky applicants using EDA
 
 This case study aims to identify patterns which indicate if a client has difficulty paying their installments
 
@@ -68,11 +68,11 @@ The data is about whether a client has payment difficulties.
 3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
 
 ## 5. Business Objectives
-This case study aims to iden tify pat terns which indicate if a clien t has dif ficulty paying 
-their installmen ts which may be used for taking ac tions such as denying the loan , reducing 
-the amoun t of loan , lending (too risk y applican ts) at a higher in terest rate , etc . This will 
-ensure that the consumers capable of repaying the loan are not re jec ted . Iden tification of 
-such applican ts using EDA is the aim of this case study.
+This case study aims to identify patterns which indicate if a client has dif ficulty paying 
+their installments which may be used for taking actions such as denying the loan, reducing 
+the amount of loan , lending (too risky applicants) at a higher interest rate, etc . This will 
+ensure that the consumers capable of repaying the loan are not rejected . Identification of 
+such applicants using EDA is the aim of this case study.
 
 ## 6. Overall approach of the analysis
 The files are captured , understood , prepared for analysis (cleaned , processed) and
