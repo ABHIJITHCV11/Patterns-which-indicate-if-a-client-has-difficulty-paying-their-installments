@@ -3,9 +3,9 @@
 
 This case study aims to identify patterns which indicate if a client has difficulty paying their installments
 
-[Bank+Marketing+Campaign_EDA-blank+notebook.ipynb](https://github.com/ABHIJITHCV11/Bank_Marketing_Campaign_EDA/blob/master/Bank%2BMarketing%2BCampaign_EDA-blank%2Bnotebook%20(1).ipynb) *Contains the python code.*
+[Untitled.ipynb](https://github.com/ABHIJITHCV11/eda2/blob/master/Untitled.ipynb) *Contains the python code.*
 
-[Presentation 4.pdf](https://github.com/ABHIJITHCV11/Bank_Marketing_Campaign_EDA/blob/master/Presentation%204.pdf) *Contains Overall approach of the analysis,key findings and conclusions.*
+[Presentation 4.pdf](https://github.com/ABHIJITHCV11/eda2/blob/master/Presentation%204.pdf) *Contains Overall approach of the analysis,key findings and conclusions.*
  
 
 
@@ -79,6 +79,6 @@ The files are captured , understood , prepared for analysis (cleaned , processed
 analyses via different methods (statistical summaries and plotting). Then some conclusions
 are drawn based on the results.
 
-[Bank+Marketing+Campaign_EDA-blank+notebook.ipynb](https://github.com/ABHIJITHCV11/Bank_Marketing_Campaign_EDA/blob/master/Bank%2BMarketing%2BCampaign_EDA-blank%2Bnotebook%20(1).ipynb) *Contains the python code.*
+[Untitled.ipynb](https://github.com/ABHIJITHCV11/eda2/blob/master/Untitled.ipynb) *Contains the python code.*
 
-[Presentation 4.pdf](https://github.com/ABHIJITHCV11/Bank_Marketing_Campaign_EDA/blob/master/Presentation%204.pdf) *Contains Overall approach of the analysis,key findings and conclusion.*
+[Presentation 4.pdf](https://github.com/ABHIJITHCV11/eda2/blob/master/Presentation%204.pdf) *Contains Overall approach of the analysis,key findings and conclusions.*
