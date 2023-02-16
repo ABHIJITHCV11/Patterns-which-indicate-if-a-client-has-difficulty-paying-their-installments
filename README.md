@@ -82,3 +82,29 @@ are drawn based on the results.
 [Untitled.ipynb](https://github.com/ABHIJITHCV11/eda2/blob/master/Untitled.ipynb) *Contains the python code.*
 
 [Presentation 4.pdf](https://github.com/ABHIJITHCV11/eda2/blob/master/Presentation%204.pdf) *Contains Overall approach of the analysis,key findings and conclusions.*
+
+## 6. Conclusion
+### Distribution
+- 92% of people didn't default whereas to 8% defaulted.
+- From the above statistics it is clear that the data is imbalanced
+- We can't predict if a person is a defaulter just by looking at their SALARY
+- The salary distrubution of defaulter's and defaulter's are very close
+- This means we can not directly predict if a person will be defaulter or not, just by looking at their salary
+
+### Gender discripancy findings
+- 57 % of defaulters are females.
+- But we have to remeber, 65 % of loans were took by females.Thus they have more defaulters.
+- Also, from our analysis it is clear that percentage of male defaulters are high compared to females.
+
+### Does owning a car make a difference ?
+- 34 % of non-defaulters own a car while only 30 % of defaulters own it.
+- But there are about 2 times more people that does not own a car compared to people that own a car.
+- Thus owning a car makes Not much difference
+
+### Loans .
+- Unemployed and Maternity leave loan takes have the highest percentage of defaulters in their group respectively.
+- Students and Businessman have 100 % non default rate(But very few of them took loans).
+- old_senior_citizen's (70+) do not take loans
+- for non defaulter's senior_cityzen's are found to take more loans
+- for defaulter's adult's are found to take more loans
+- Features that can contribute in predicting target feature NAME_EDUCATION_TYPE,AMT_INCOME_TOTAL,DAYS_BIRTH,AMT_CREDIT,DAYS_EMPLOYED,AMT_ANNUITY
