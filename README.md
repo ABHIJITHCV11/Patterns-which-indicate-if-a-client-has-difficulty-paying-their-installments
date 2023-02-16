@@ -85,6 +85,10 @@ are drawn based on the results.
 
 ## 6. Conclusion
 ### Distribution
+
+
+<kbd>  ![](images/imbalance.PNG)  </kbd>
+
 - 92% of people didn't default whereas to 8% defaulted.
 - From the above statistics it is clear that the data is imbalanced
 - We can't predict if a person is a defaulter just by looking at their SALARY
@@ -92,16 +96,25 @@ are drawn based on the results.
 - This means we can not directly predict if a person will be defaulter or not, just by looking at their salary
 
 ### Gender discripancy findings
+
+<kbd>  ![](images/gender1.PNG)  </kbd>
+
 - 57 % of defaulters are females.
 - But we have to remeber, 65 % of loans were took by females.Thus they have more defaulters.
 - Also, from our analysis it is clear that percentage of male defaulters are high compared to females.
 
 ### Does owning a car make a difference ?
+
+<kbd>  ![](images/car.PNG)  </kbd>
+
 - 34 % of non-defaulters own a car while only 30 % of defaulters own it.
 - But there are about 2 times more people that does not own a car compared to people that own a car.
 - Thus owning a car makes Not much difference
 
 ### Loans .
+
+<kbd>  ![](images/income.PNG)  </kbd>
+
 - Unemployed and Maternity leave loan takes have the highest percentage of defaulters in their group respectively.
 - Students and Businessman have 100 % non default rate(But very few of them took loans).
 - old_senior_citizen's (70+) do not take loans
