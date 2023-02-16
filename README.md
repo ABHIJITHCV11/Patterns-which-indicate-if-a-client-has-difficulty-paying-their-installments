@@ -60,12 +60,12 @@ risk of the client he received worse pricing which he did not want.
 
  
 
-1. 'application_data.csv'  contains all the information of the client at the time of application.
+1. ['application_data.csv'](application_data.csv)  contains all the information of the client at the time of application.
 The data is about whether a client has payment difficulties.
 
-2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
+2. ['previous_application.csv'](previous_application.csv) contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 
-3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
+3. ['columns_description.csv'](columns_description.csv) is data dictionary which describes the meaning of the variables.
 
 ## 5. Business Objectives
 This case study aims to identify patterns which indicate if a client has dif ficulty paying 
